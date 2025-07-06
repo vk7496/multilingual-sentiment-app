@@ -1,0 +1,5 @@
+streamlit
+textblob
+deep-translator
+pandas
+pip freeze > requirements.txt
