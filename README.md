@@ -12,3 +12,4 @@ This is a Streamlit app for multilingual sentiment analysis supporting English, 
 
 1. Clone the repo  
 2. Install dependencies:  
+BY VISTA KAVVIANI
